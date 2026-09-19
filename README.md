@@ -15,7 +15,7 @@
 - The data consists of numerical values and thus can be represented in real and float data types.
 
 ## Algorithm Development:
-Import library
+`Import library
 Declare radius, area, circumference, sqrt_area, area_rounded_up, area_rounded_down
 Output "Enter radius of the garden: "
 Input radius
@@ -28,7 +28,7 @@ Output (f"Area of the circular garden: {area:.2f} square meters")
 Output (f"Circumference of the circular garden: {circumference:.2f} meters")
 Output (f"Square root of the area: {sqrt_area:.2f}")
 Output "Area rounded down:", area_rounded_down ,"square meters"
-Output "Area rounded up:", area_rounded_up ,"square meters"
+Output "Area rounded up:", area_rounded_up ,"square meters"`
 
 ## How to Run:
 - First, open the ***"LT1"*** repository. Then, press  ***"CircularGarden.py"***.
