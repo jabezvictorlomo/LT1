@@ -28,4 +28,4 @@
 - Circumference of the garden: 43.98 meters
 - Square root of the area: 12.41
 - Area rounded down: 153 square meters
-- Area rounded up: 154 square meters.
+- Area rounded up: 154 square meters
