@@ -8,7 +8,7 @@
 ## Problem Decomposition:
 - Determine the square root of the calculated area, the calculated area rounded down to the nearest whole number, and the calculated area rounded up to the nearest whole number.
 
-## Pattern Recoognition:
+## Pattern Recognition:
 - Use the formula for the area and circumference of the circle, and apply the math library functions math.sqrt() to calculate the square root, math.floor() to calculate the area rounded down to the nearest whole number, and math.ceil() to calculate the area rounded up to the nearest whole number.
 
 ## Data Representation:
@@ -16,8 +16,7 @@
 
 ## Algorithm Development:
 ```
-Import library
-Declare radius, area, circumference, sqrt_area, area_rounded_up, area_rounded_down
+Import math
 Output "Enter radius of the garden: "
 Input radius
 Assign area = math.sqrt(area)
