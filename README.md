@@ -34,7 +34,7 @@ Output "Area rounded up:", area_rounded_up ,"square meters"
 ```
 
 ## How to Run:
-- First, open the ***"LT1"*** repository. Then, press  ***"CircularGarden.py"***.
+- First, open the ***"LT1"*** repository. Then, press  ***"CircularGarden.py"***. After opening the program, enter the input required. You now have your python program running.
 
 ## Input Needed:
 - The **radius** of the garden in meters and float value.
