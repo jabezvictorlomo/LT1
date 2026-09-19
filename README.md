@@ -6,7 +6,9 @@
 -  Calculate the area and circumference of the circular garden, square root of the calculated area, the area rounded down to the nearest whole number, and the area rounded up to the nearest whole number.
 
 ## Problem Decomposition:
-- Determine the square root of the calculated area, the calculated area rounded down to the nearest whole number, and the calculated area rounded up to the nearest whole number.
+- First, ask the user to input the radius.
+- Next, process the area and circumference of the circular garden, the square root of the calculated area, the calculated area rounded down to the nearest whole number, and the calculated area rounded up to the nearest whole number.
+- Last, display the output.
 
 ## Pattern Recognition:
 - Use the formula for the area and circumference of the circle, and apply the math library functions math.sqrt() to calculate the square root, math.floor() to calculate the area rounded down to the nearest whole number, and math.ceil() to calculate the area rounded up to the nearest whole number.
