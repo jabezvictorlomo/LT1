@@ -3,13 +3,13 @@
 - **The circular garden calculator** is a program that uses the **math library** and **basic formulas** to calculate the **area, circumference, square root of the area, rounded down value of the area, and rounded up value of the area**.
 
 ## Problem Identification:
--  Calculate the area and circumference of the circular garden. square root of the calculated area, the area rounded down to the nearest whole number, and the area rounded up to the nearest whole number.
+-  Calculate the area and circumference of the circular garden, square root of the calculated area, the area rounded down to the nearest whole number, and the area rounded up to the nearest whole number.
 
 ## Problem Decomposition:
-- Determine the square root of the calculated area, the area rounded down to the nearest whole number, and the area rounded up to the nearest whole number.
+- Determine the square root of the calculated area, the calculated area rounded down to the nearest whole number, and the calculated area rounded up to the nearest whole number.
 
 ## Pattern Recoognition:
-- Use the formula for the area and circumference of the circle, and use the math library functions math.sqrt() to calculate the square root, math.floor() to calculate the area rounded down to the nearest whole number, and math.ceil() to calculate the area rounded up to the nearest whole number.
+- Use the formula for the area and circumference of the circle, and apply the math library functions math.sqrt() to calculate the square root, math.floor() to calculate the area rounded down to the nearest whole number, and math.ceil() to calculate the area rounded up to the nearest whole number.
 
 ## Data Representation:
 - The data consists of numerical values and thus can be represented in real and float data types.
